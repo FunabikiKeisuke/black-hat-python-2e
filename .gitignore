@@ -1,3 +1,6 @@
+# IDE settings files
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -105,7 +108,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+venv3/
 ENV/
 env.bak/
 venv.bak/
