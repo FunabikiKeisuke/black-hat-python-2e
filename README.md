@@ -8,4 +8,4 @@
 $ python --version
 Python 3.9.12
 ```
-使っているパッケージは requirements.txt に置いてあります．
+使っているパッケージは `requirements.txt` に置いてあります．
