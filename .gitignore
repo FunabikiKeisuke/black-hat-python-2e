@@ -1,6 +1,9 @@
 # IDE settings files
 .idea/
 
+# test files
+test_rsa.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
